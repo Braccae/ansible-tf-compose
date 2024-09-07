@@ -1,0 +1,6 @@
+# Secrets
+.env
+.key
+
+# testing
+.dev/
